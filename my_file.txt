@@ -1,0 +1,4 @@
+Hello world!Hello!
+This is a text file.
+Can i write to the end?
+Or at the beginning?Hello world!
